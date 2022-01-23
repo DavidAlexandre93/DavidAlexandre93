@@ -1,19 +1,15 @@
-## Oiii eu sou o David Alexandre, criadora de conteúdo de programação e tecnologia!
+## Hi I'm David Alexandre, I work as Fullstack Developer & Software Quality
 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on coming soon
+- 🌱 I’m currently learning microservices and cloud architecture
+- 👯 I’m looking to collaborate on with initial projects of various technologies
+- 🤔 I’m looking for help with project templates
+- 💬 Ask me about technology
+- 📫 How to reach me: São Paulo - Brazil
 
 <div align="center">
   <a href="https://www.davidalexandrefernandes.com">
