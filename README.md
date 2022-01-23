@@ -16,6 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidAlexandre93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlexandre93&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="David-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -26,10 +27,11 @@
   <img align="center" alt="David-Kube" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="David-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="David-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-
-  
-  <img align="right" alt="David-pic" height="150" style="border-radius:50px; " src="https://tenor.com/view/one-punch-man-gif-21711613">
 </div>
+  
+  <div style="display: inline_block>
+  <img align="right" alt="David-pic" height="150" style="border-radius:50px; " src="https://tenor.com/view/one-punch-man-gif-21711613">
+  </div>
   
   ##
  
