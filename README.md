@@ -1,4 +1,4 @@
-## Hi I'm David Alexandre, I work as Fullstack Developer & Software Quality
+## Hi I'm David Alexandre, I work as Fullstack Developer | Software Quality | Cloud Computing | Artificial Intelligence (AI) | Blockchain(NFT/Metaverse)
 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
