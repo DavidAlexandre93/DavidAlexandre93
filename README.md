@@ -30,11 +30,18 @@
   
   <img align="right" alt="David-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/one-punch-man-gif-21711613.gif">
 </div>
-   
+
+## Support is contiguous 
+
+Leave a ⭐️ If this project got you going!
+<p>
+  <a href="https://www.buymeacoffee.com/davidfernandes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/davidfernandes" /></a>
+</p>
+<br /><br />
+
   ##
  
 <div> 
-  <a href="https://api.whatsapp.com/send?phone=5511959364795&text=Olá eu vim através do seu repositório do GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/davidalexandrepro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/BTRBMMzu4m" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:davidalexandrefernandes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
