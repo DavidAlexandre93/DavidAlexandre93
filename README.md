@@ -1,4 +1,4 @@
-## Hi I'm David Alexandre, I work as Software Engineer | Full-Stack Developer | DevOps & SRE | Cloud Engineer | Infrastructure as Code (IaC) | AWS | Azure | GCP | Software Quality
+## Hi I'm David Alexandre, I work as Software Engineer | Full Stack | Cloud | SRE | APIs | Microservices | Software Architecture | IaC | LLMs | RAG | MCP | SDD | Functions | EDA
 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
